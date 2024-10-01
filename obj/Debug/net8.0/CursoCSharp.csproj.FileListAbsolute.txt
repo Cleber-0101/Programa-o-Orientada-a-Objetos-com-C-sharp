@@ -12,3 +12,4 @@ C:\Users\clebe\source\repos\c#\CursoCSharp\obj\Debug\net8.0\refint\CursoCSharp.d
 C:\Users\clebe\source\repos\c#\CursoCSharp\obj\Debug\net8.0\CursoCSharp.pdb
 C:\Users\clebe\source\repos\c#\CursoCSharp\obj\Debug\net8.0\CursoCSharp.genruntimeconfig.cache
 C:\Users\clebe\source\repos\c#\CursoCSharp\obj\Debug\net8.0\ref\CursoCSharp.dll
+C:\Users\clebe\source\repos\c#\CursoCSharp\obj\Debug\net8.0\CursoCSharp.sourcelink.json
