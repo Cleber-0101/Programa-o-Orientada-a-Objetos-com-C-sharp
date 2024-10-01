@@ -19,7 +19,6 @@ namespace CursoCSharp.fundamentos
             var comprouTV50 =  trabalho1 && trabalho2;
             Console.WriteLine("Comprou a tv ?" ,  comprouTV50);
 
-
             //operador onde umas das condiçoes precisam ser verdadeiras 
             var comprouTV1 =  trabalho1 || trabalho2;
             Console.WriteLine("Comprou  ?" , comprouTV1);
