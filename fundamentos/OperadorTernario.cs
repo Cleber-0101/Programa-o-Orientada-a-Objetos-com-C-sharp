@@ -10,8 +10,9 @@ namespace CursoCSharp.fundamentos
     {
         public static void Excecutar()
         {
-
-
+            var nota = 7.0;
+            String resultado = nota >= 7.0 ? "Aprovado" : "Reprovado";
+            Console.WriteLine(resultado);
         }
     }
 }
